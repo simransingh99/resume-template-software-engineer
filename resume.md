@@ -1,12 +1,12 @@
-# FIRST LAST NAME
+# Simran Singh
 
-(123) 456 - 7890 | email@gmail.com
+331-588-1404 | simran_singh99@berkeley.edu
 
-www.website.com | github.com/myusername | linkedin.com/myusername
+www.website.com | github.com/myusername | https://www.linkedin.com/in/simran-singh9900
 
 ## EDUCATION
-**University of College** | B.S. Degree ... *MONTH 20XX*
-* **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
+**University of California, Berkeley** | B.A. Degree in Computer Science & Data Science, certificate in Design Innovation *May 2022*
+* **Coursework**: Structure and Interpretation of Computer Programs (CS61a), Data Structures (CS61b), The Foundations of Data Science (Data 8), Calculus 1 & 2, Great Ideas in Computer Architecture (CS61c), Discrete Mathematics & Probability Theory (CS70), Linear Algebra & Differential Equations (Math 54), Efficient Algorithms and Intractable Problems (CS170), Principles and Techniques of Data Science (DATA100)
 
 ## SKILLS
 * **Languages**: Python, Java, C, SQL, ...
